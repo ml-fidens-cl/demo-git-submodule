@@ -1,0 +1,3 @@
+[submodule "demo-git-submodule/src/autenticacion"]
+	path = demo-git-submodule/src/autenticacion
+	url = https://github.com/ml-fidens-cl/autenticacion.git
